@@ -16,6 +16,7 @@ pip install
 - seaborn
 - matplotlib
 - sklearn
+- tabulate
 
 The main purpose of this project is to determine if we can improve Wine by adjusting simple parameters in the Wine. Ideally, these changes will be post fermentation and only effect 1 characteristic of the wine.
 ### Partner(s)/Contributor(s)  
