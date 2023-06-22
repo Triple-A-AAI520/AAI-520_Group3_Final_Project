@@ -2,7 +2,7 @@
 
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
--- Project Status: Active [Planned, Active, On-hold, Completed]
+-- Project Status: Active
 
 ## Installation
 
