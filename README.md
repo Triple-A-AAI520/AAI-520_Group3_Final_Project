@@ -18,17 +18,16 @@ pip install
 
 The main purpose of this project is to determine if we can improve Wine by adjusting simple parameters in the Wine. Ideally, these changes will be post fermentation and only effect 1 characteristic of the wine.
 Partner(s)/Contributor(s)  
-•	Paul Parks
-•	Alden Caterio
-•	Mayank Bhatt
+- Paul Parks
+- Alden Caterio
+- Mayank Bhatt
 
 Methods Used
-A few examples are:
-•	Inferential Statistics
-•	Data Visualization
-•	Data Manipulation
+- Inferential Statistics
+- Data Visualization
+- Data Manipulation
 Technologies
-•	Python
+- Python
 
 Project Description
 Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
