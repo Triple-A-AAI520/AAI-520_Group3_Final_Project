@@ -33,7 +33,21 @@ The main purpose of this project is to determine if we can improve Wine by adjus
 - Python
 
 ## Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+
+Our objective is to determine how wine physicochemical attributes affect quality.
+We will provide a statistically-validated strategy to improve wine quality ratings. 
+Our report will include:
+- Data to support the correlation between attributes and higher wine quality.
+- Actionable recommendations on how to improve wine quality.
+
+### Dataset
+2 types of wine: red and white
+Physicochemical attributes: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol
+Data provided by UCI Machine Learning Repository
+The red wine dataset contains 1599 samples.
+The white wine dataset contains 4898 samples.
+Data gathered by physicochemical laboratory test
+Sensory test to determine quality
 
 ## License
 MIT License
