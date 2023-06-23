@@ -41,13 +41,13 @@ Our report will include:
 - Actionable recommendations on how to improve wine quality.
 
 ### Dataset
-2 types of wine: red and white
-Physicochemical attributes: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol
-Data provided by UCI Machine Learning Repository
-The red wine dataset contains 1599 samples.
-The white wine dataset contains 4898 samples.
-Data gathered by physicochemical laboratory test
-Sensory test to determine quality
+- 2 types of wine: red and white
+- Physicochemical attributes: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol
+- Data provided by UCI Machine Learning Repository
+- The red wine dataset contains 1599 samples.
+- The white wine dataset contains 4898 samples.
+- Data gathered by physicochemical laboratory test
+- Sensory test to determine quality
 
 ## License
 MIT License
