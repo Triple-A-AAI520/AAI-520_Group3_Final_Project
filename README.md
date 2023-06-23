@@ -8,15 +8,16 @@ This project is a part of the AAI-500 course in the Applied Artificial Intellige
 
 git clone this repo
 
-pip install 
-- pandas
-- scipy
-- statsmodels
-- numpy
-- seaborn
-- matplotlib
-- sklearn
-- tabulate
+```
+pip install pandas
+pip install scipy
+pip install statsmodels
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install sklearn
+pip install tabulate
+```
 
 The main purpose of this project is to determine if we can improve Wine by adjusting simple parameters in the Wine. Ideally, these changes will be post fermentation and only effect 1 characteristic of the wine.
 ### Partner(s)/Contributor(s)  
