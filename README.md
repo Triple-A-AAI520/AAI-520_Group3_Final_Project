@@ -1,3 +1,5 @@
+ReadME.md EXAMPLE
+
 # Mental Health Data Processing & Analysis
 
 This repository contains the code, notebooks, and documentation for ingesting, cleaning, and exploring a collection of Mental Health datasets. It is part of the AAI-500 coursework at the University of San Diego (USD) and brings together multiple contributors’ work on data cleaning, formatting, and initial exploratory analysis.
