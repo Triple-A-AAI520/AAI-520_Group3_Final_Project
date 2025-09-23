@@ -9,9 +9,9 @@ This project is a part of the **AAI-520: NLP and GenAI** course in the Applied A
 
 ## Contributors
 
-Ashley Moore
-Quang Tran
-Alyona Kosobokova
+- Ashley Moore
+- Quang Tran
+- Alyona Kosobokova
 
 ## Installation  
 
